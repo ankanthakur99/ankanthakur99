@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ankanthakur
-- 👀 I’m interested in Sowftwere Developer ...
-- 🌱 I’m currently learning DSA,JavaScript,ReactJS...
-- 💞️ I’m looking to see me as a SDE...
-- 📫 How to reach me ...mail-thakur.ankan99@gmail.com
+Hi, I'm Ankan Thakur.
+
+I'm a Software Developer with 2+ years of experience in .NET and
+
 
 
 <!---
